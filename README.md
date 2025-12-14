@@ -26,5 +26,5 @@ Datasets are not included in this repository due to size and licensing constrain
 
 ## Authors
 
-Khatija Azeem
-Gadi Nehemne
+- Khatija Azeem
+- Gadi Nehemne
