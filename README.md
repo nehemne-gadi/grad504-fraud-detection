@@ -20,6 +20,10 @@ The project explores multiple supervised machine learning models to detect fraud
 
 Datasets are not included in this repository due to size and licensing constraints. Please download the PaySim dataset from Kaggle and place it in the expected directory before running the notebook.
 
+### Datasets:
+1. PaySim Synthetic Financial Dataset: https://www.kaggle.com/datasets/ealaxi/paysim1
+2. Bank Customer Segmentation: https://www.kaggle.com/datasets/shivamb/bank-customer-segmentation
+
 ## Authors
 
 Khatija Azeem
